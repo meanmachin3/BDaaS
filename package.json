@@ -1,0 +1,28 @@
+{
+  "name": "bdaas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meanmachin3/BDaaS.git"
+  },
+  "keywords": [
+    "blockchain",
+    "docker",
+    "microservice",
+    "kubernetes"
+  ],
+  "author": "Manish Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meanmachin3/BDaaS/issues"
+  },
+  "homepage": "https://github.com/meanmachin3/BDaaS#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
