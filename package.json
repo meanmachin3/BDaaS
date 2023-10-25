@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/meanmachin3/BDaaS#readme",
   "dependencies": {
-    "crypto-js": "^3.2.1",
+    "crypto-js": "^4.2.0",
     "sha256": "^0.2.0"
   }
 }
